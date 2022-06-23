@@ -1,4 +1,3 @@
-Adnan
 - 👋 Hi, I’m @Adnan09876
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,4 +7,4 @@ Adnan
 <!---
 Adnan09876/Adnan09876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----ghcgjh.>
+--->
